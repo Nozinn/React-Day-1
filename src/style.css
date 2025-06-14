@@ -1,0 +1,82 @@
+.icon{
+	margin-left: 49%;
+	width: 7%;
+}
+
+.section-1{
+	width: 90%;
+	margin: auto;
+}
+
+h1{
+	font-size: 60px;
+}
+
+h4{
+	font-size: 40px;
+	display: inline;
+	margin-left: 100px;
+}
+
+p{
+	color: rgba(72, 157, 255, 1);
+	margin-left: 100px;	
+	font-size: 30px;
+}
+
+button{
+	color: white;
+	background-color: rgba(72, 157, 255, 1);
+	border-radius: 5px;
+	border: none;	
+	padding: 10px 80px;
+	margin-left: 100px;
+	font-size: 40px;
+}
+
+.cardImg{
+	width: 500px;
+	padding-left: 80px;
+}
+
+/* .card{
+	border: 1px solid gray;
+}	 */
+
+.container1{
+	display: flex;
+	justify-content: space-between;	
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.card{
+	width: 49%;
+	/* border: 1px solid gray; */
+	display: inline;
+}
+
+hr{
+	margin-top: 60px;
+	/* color: rgb(206, 205, 205);	 */
+	border: 2px solid rgb(227, 226, 226);
+}
+
+.pFoot{
+	font-size: 20px;
+	margin-right: 100px;
+}
+
+span{
+	color: rgb(84, 82, 82);
+}
+
+h3{
+	color: rgb(84, 82, 82);
+	font-size: 25px;
+}
+
+.footer{
+	text-align: center;
+	margin-top: 60px;
+}
